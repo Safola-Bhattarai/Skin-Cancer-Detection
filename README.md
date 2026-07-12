@@ -1,1 +1,1 @@
-# Skin-Cancer-Detection
+Skin cancer detection Using CNN
