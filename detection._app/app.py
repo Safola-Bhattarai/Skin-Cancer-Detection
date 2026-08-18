@@ -72,3 +72,6 @@ async def predict(file: UploadFile = File(...)):
 @app.get("/")
 async def root():
     return {"message": "Skin Cancer Detection API is running. POST an image to /predict"}
+
+
+
